@@ -1,0 +1,176 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.fondo{
+    background-image:url(image/coku.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 30em;
+
+}
+.texto{
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 4em;
+}
+.texto2{
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 1em;
+}
+
+.primer{
+    border: 2px outset #7c7c7c;
+    background-color: "white";
+
+}
+.fondo2
+{
+    background-image:url(https://www.supanova.com.au/wp-content/uploads/2018/02/Dragon-Ball-1024x768.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo3
+{
+    background-image:url(https://static.bandainamcoent.eu/high/dragon-ball/dragonball-project-z/00-page-setup/dbzk_game-thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40em;
+}
+.fondo4{
+    background-image:url(https://www.cheatsheet.com/wp-content/uploads/2022/03/Dragon-Ball-Super-Super-Hero-Release-Date-Window-America.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40em;
+
+}
+footer {
+  padding: 3px;
+  background-color: #0D6FED;
+  color: white;
+  border:2px outset #0D374F;
+}
+.index0{
+    text-align: center;
+    border: 2px outset #FF4700;
+    background-color: #F5F2C4;
+    padding-top: 4em;
+}
+.index1{
+        border: 2px outset #7c7c7c;
+    background-color: #EDB0A3;
+
+}
+.index2{
+    border: 2px outset #7c7c7c;
+    background-color: #EDE9A3;
+}
+.index3{
+     border: 2px outset #7c7c7c;
+    background-color: #C4EFF5;
+}
+
+.index4{
+     border: 2px outset #7c7c7c;
+    background-color: #D1F5C4;
+}
+.fondo_top{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/766/984/966/twenty-one-pilots-yellow-trench-minimalism-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo_top2{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/825/96/36/twenty-one-pilots-music-singer-boys-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 40em;
+}
+.fondo_top3{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/27/429/257/band-music-twenty-one-pilots-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo_top4{
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/a/af/Twenty_One_Pilots_album_cover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo_top5{
+    background-image: url(https://cdns-images.dzcdn.net/images/cover/e276d1f527dc726a47cb10a87cf90742/264x264.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo_top6{
+    background-image: url(https://i.scdn.co/image/ab67616d0000b273d263500f1f97e978daa5ceb1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo_top7{
+    background-image: url(https://cms.kerrang.com/images/twenty-one-pilots-Trench-header-album-cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo_top8{
+    background-image: url(https://www.twentyonepilots.com/sites/g/files/g2000013736/files/2022-01/OGggzhiezyfw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+
+.fondo_chess{
+    background-image: url(https://i.pinimg.com/736x/ba/f5/31/baf5311fa9960a2dc0177ba54edd5db3--wallpaper-in-hd-wii-games.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40em;
+}
+.fondo_chess2{
+    background-image: url(image/chess.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 40em;
+}
+.fondo_chess3{
+    background-image: url(image/chess2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 40em;
+}
+.fondo_chess4{
+    background-image: url(https://cdn.create.vista.com/api/media/small/376172370/stock-photo-chess-a-lot-of-chess);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 40em;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color:#FFFFFF;
+}
+a .underline{
+    text-decoration:none;
+    color:#000000;
+}
+li {
+    list-style-type: none;
+    text-align: center;
+  }
+  #staticDiv {
+    height:200px;
+    right:0px;
+  }
