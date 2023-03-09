@@ -4,7 +4,7 @@ body{
     border: none;
 }
 .fondo{
-    background-image:url(image/coku.jpg);
+    background-image:url(../image/coku.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -137,14 +137,14 @@ footer {
     height: 40em;
 }
 .fondo_chess2{
-    background-image: url(image/chess.jpeg);
+    background-image: url(../image/chess.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     height: 40em;
 }
 .fondo_chess3{
-    background-image: url(image/chess2.jpg);
+    background-image: url(../image/chess2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
